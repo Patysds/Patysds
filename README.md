@@ -1,32 +1,4 @@
 
-define p = ﻿Character(_("{nome}"), color="#ff69b4")
-define b = Character("Brendo")
-define d = Character("?????")
-
-
-
-image boca aberta = "images/persona/boca aberta.png"
-image corado boca aberta = "images/persona/corado - boca aberta.png"
-image corado lado = "images/persona/corado lado.png"
-image corado = "images/persona/corado.png"
-image feliz = "images/persona/feliz.png"
-image feliz1 = "images/persona/feliz1.png"
-image olhando lado = "images/persona/olhando lado.png"
-image serio = "images/persona/serio.png"
-image sorrindo b fechada = "images/persona/sorrindo b.fechada.png"
-image sorrindo = "images/persona/sorrindo.png"
-
-
-image barraca fogo = "images/cenario/barraca de comida - fogo.jpg"
-image barraca de comida = "images/cenario/barraca de comida.jpg"
-image barraca de comida1 = "images/cenario/barraca de comida1.jpg"
-image casa noite = "images/cenario/casa noite.jpg"
-image casa tarde = "images/cenario/casa tarde.jpg"
-image casa = "images/cenario/casa.jpg"
-image quarto moderno = "images/cenario/quarto moderno.jpg"
-image restaurante = "images/cenario/restaurante.jpg"
-
-label start:
 
     $nome =renpy.input ("Qual é o seu nome?")
     if nome == "":
