@@ -1,5 +1,4 @@
 
-
     $nome =renpy.input ("Qual é o seu nome?")
     if nome == "":
         $ nome = "Sarah"
