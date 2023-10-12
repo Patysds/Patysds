@@ -4,7 +4,7 @@ define b = Character("Brendo")
 define d = Character("?????")
 
 
-# brendo
+
 image boca aberta = "images/persona/boca aberta.png"
 image corado boca aberta = "images/persona/corado - boca aberta.png"
 image corado lado = "images/persona/corado lado.png"
@@ -16,7 +16,7 @@ image serio = "images/persona/serio.png"
 image sorrindo b fechada = "images/persona/sorrindo b.fechada.png"
 image sorrindo = "images/persona/sorrindo.png"
 
-#cenario
+
 image barraca fogo = "images/cenario/barraca de comida - fogo.jpg"
 image barraca de comida = "images/cenario/barraca de comida.jpg"
 image barraca de comida1 = "images/cenario/barraca de comida1.jpg"
